@@ -45,5 +45,6 @@
         {
             this.innerValue >>= shifter;
         }
+		//test
     }
 }
